@@ -1,0 +1,9 @@
+# VS Code config
+.vscode
+
+# CMake default output directory
+build
+
+# Obj files
+*.o
+*.obj
